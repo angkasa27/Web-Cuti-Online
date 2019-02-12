@@ -1,1 +1,2 @@
-# Web-Cuti-Online
+# Desain web untuk cuti online
+# Menggunakan Framework Materialize.css
